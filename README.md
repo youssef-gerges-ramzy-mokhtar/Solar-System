@@ -10,8 +10,6 @@ Applying Object-Oriented Principles to create a Simple Model of the Solar System
 * User Options to Zoom In & Zoom Out
 * User Options to increase the speed of all solar bodies in the solar system
 
-### To run the main method is in SolarSystemCourseWork.java File
-
 ## ScreenShoots
 
 ### Solar System & User Options
@@ -19,3 +17,5 @@ Applying Object-Oriented Principles to create a Simple Model of the Solar System
 
 ### Using Zoom Option to Zoom In
 ![App Screenshot](https://github.com/youssef-gerges-ramzy-mokhtar/Solar-System/blob/main/Screenshoots/2.png?raw=true)
+
+-To run the main method is in SolarSystemCourseWork.java File
